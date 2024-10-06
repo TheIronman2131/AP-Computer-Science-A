@@ -1,5 +1,5 @@
 //@author Cal
-package com.colelieberthal.homework3;
+package com.redacted.homework3;
 import java.util.Scanner;
 
 public class Homework3 {
